@@ -7,11 +7,11 @@
 </p>
 
 <p>
-<a href="https://obscuravm.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-obscura.svg" alt="Obscura: a Luau obfuscator and key system for Roblox scripts. Live at obscuravm.com." width="100%"></a>
+<a href="https://obscuravm.com"><img src="https://raw.githubusercontent.com/Krep-Labs/.github/main/profile/assets/product-obscura.svg" alt="Obscura: a Luau obfuscator and key system for Roblox scripts. Live at obscuravm.com." width="100%"></a>
 </p>
 
 <p>
-<a href="mailto:krep@kreplabs.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/contact.svg" alt="Contact: questions, ideas, or partnerships. krep@kreplabs.com" width="100%"></a>
+<a href="mailto:krep@kreplabs.com"><img src="https://raw.githubusercontent.com/Krep-Labs/.github/main/profile/assets/contact.svg" alt="Contact: questions, ideas, or partnerships. krep@kreplabs.com" width="100%"></a>
 </p>
 
 <!-- three tiles side by side: keep the <a> tags touching (no spaces or line breaks between them) -->
