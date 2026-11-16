@@ -1,5 +1,5 @@
 <p>
-<a href="https://kreplabs.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/kreplabs/header.svg" alt="Krep Labs. Founded 2026, 1 live product in production, built and maintained end to end. We build software, and keep it safe. kreplabs.com" width="100%"></a>
+<a href="https://kreplabs.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/kreplabs/header.svg?v=2" alt="Krep Labs. Founded 2026, 1 live product in production, built and maintained end to end. We build software, and keep it safe. kreplabs.com" width="100%"></a>
 </p>
 
 <p>
